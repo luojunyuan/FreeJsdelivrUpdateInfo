@@ -1,0 +1,8 @@
+#EXTINF:-1 group-title="JP",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="JP",Tokyo MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 group-title="JP",日本テレビ
+https://ntv2.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="JP",AT-X
+https://sub2.neetball.net/live/neet.m3u8
