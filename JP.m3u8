@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="NHK World Japan" tvg-logo="" group-title="未分类"
+#EXTINF:-1 tvg-id="1" tvg-name="NHK World Japan" tvg-logo="" group-title="未分类", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Tokyo MX One" tvg-logo="" group-title="未分类"
+#EXTINF:-1 tvg-id="2" tvg-name="Tokyo MX One" tvg-logo="" group-title="未分类", Tokyo MX One
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="日本テレビ" tvg-logo="" group-title="未分类"
+#EXTINF:-1 tvg-id="3" tvg-name="日本テレビ" tvg-logo="" group-title="未分类", 日本テレビ
 https://ntv2.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="AT-X" tvg-logo="" group-title="未分类"
+#EXTINF:-1 tvg-id="4" tvg-name="AT-X" tvg-logo="" group-title="未分类", AT-X
 https://sub2.neetball.net/live/neet.m3u8
